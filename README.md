@@ -44,8 +44,10 @@
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
 ## Output:
-### Name: Mukil kumar V
-### Register Number: 212222230087
+```
+ Name: Mukil kumar V
+ Register Number: 212222230087
+```
 ## GRAPH:
 ![Screenshot 2023-06-10 105637](https://github.com/Nagul71/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118661118/ffb09c6a-f14d-4ff4-b8f3-94e255707a51)
 ## DIAGRAM:
